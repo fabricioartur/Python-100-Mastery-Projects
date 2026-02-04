@@ -1,6 +1,6 @@
 # 🐍 Python Master: 100 Lessons Book - Projects Showcase
 
-Welcome to my Python Portfolio! This repository contains the graduation projects developed during the **"Learn Python in 100 Lessons"** journey. Each project was designed to be a functional tool, solving real-world problems through automation, data science, and Artificial Intelligence.
+Welcome to my Python Portfolio! This repository contains the graduation projects developed during the **"Learn Python in 100 Lessons"** book journey. Each project was designed to be a functional tool, solving real-world problems through automation, data science, and Artificial Intelligence.
 
 ## 🚀 The Projects (Superpowers)
 
